@@ -1,0 +1,15 @@
+{
+    "_id": "mydoc",
+    "_rev": 362213977,
+    "value": {
+        "Author": "Rusty",
+        "Body": "I decided today that I don't like baseball. I like plankton.",
+        "PostedDate": "2006-08-15T17:30:12-04:00",
+        "Subject": "I like Planktion",
+        "Tags": [
+            "plankton",
+            "baseball",
+            "decisions"
+        ]
+    }
+}

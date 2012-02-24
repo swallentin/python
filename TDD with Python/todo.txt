@@ -1,0 +1,4 @@
+Todo:
+
+Read and practice: http://onladp.com/pub/a/python/2004/12/02/tdd_pyunit.html
+Try develop TDD with python on Google Code Jam Practice Tests: http://code.google.com/codejam/contests.html

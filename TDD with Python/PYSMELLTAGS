@@ -1,0 +1,10 @@
+{'CLASSES': {},
+ 'CONSTANTS': [],
+ 'FUNCTIONS': [('config.set_prefs',
+                ['prefs'],
+                'This function is called before opening the project'),
+               ('config.project_opened',
+                ['project'],
+                'This function is called after opening the project')],
+ 'HIERARCHY': ['config'],
+ 'POINTERS': {}}

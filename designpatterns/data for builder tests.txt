@@ -1,0 +1,20 @@
+---------------------------
+Vehicle Type: Scooter
+ Frame  : Scooter Frame
+ Engine : none
+ #Wheels: 2
+ #Doors : 0
+
+---------------------------
+Vehicle Type: Car
+ Frame  : Car Frame
+ Engine : 2500 cc
+ #Wheels: 4
+ #Doors : 4
+
+---------------------------
+Vehicle Type: MotorCycle
+ Frame  : MotorCycle Frame
+ Engine : 500 cc
+ #Wheels: 2
+ #Doors : 0
